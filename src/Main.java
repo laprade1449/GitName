@@ -15,8 +15,7 @@ private ArrayList<Team> teams= new ArrayList<Team>();
 		
 		//Add yourself below here, Do not delete other Users
 		
-	
-		
+		Student billy = new Student("Billy Laprade", "wlaprade1449@westfield.ma.edu", "laprade1449");
 		
 		
 		
